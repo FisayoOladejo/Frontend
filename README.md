@@ -6,4 +6,4 @@ Pages include
 
 2.Change of password page
 
-3.Serice page
+3.Service page
