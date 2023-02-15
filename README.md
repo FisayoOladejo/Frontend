@@ -1,10 +1,9 @@
 **This file contain all front-end web-form of project of **ARCTIC****
 
-**Pages include
+1.**Pages include**
 
-1.Login page
+2.**Login page**
 
-2.Change of password page
+3.**Change of password page**
 
-3.Service page
-**
+**4.Service page**
